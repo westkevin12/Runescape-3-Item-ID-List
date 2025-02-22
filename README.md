@@ -1,5 +1,12 @@
-# Runescape-3-Item-ID-List
-This is a simple python script that uses the Runescape Grand Exchange API to build a list of all tradeable Items.
-BuildItemList.py will take about 4 days to run through item ID 1-55,000
-I have included the current item ID list as of 12/31/2022
-You can change what ID range to search on line 28
+Python scripts for building item ID lists in RS3 and OSRS.
+
+originally used to build item id list for dicord bot RS3 price checker to lookup item IDs by name
+
+added OSRS list and updated them as of 2/22/2025
+
+also added Build_OSRS_Item_ID.py and Build_RS3_Item_ID.py to scrape from json dump file much faster than grand exchange api
+
+
+
+
+
